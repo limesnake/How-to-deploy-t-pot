@@ -57,8 +57,8 @@ Add these inbound rules:
 ## STEP 5: EStablish SSH connection
 
 In the rules we should SSH into the vm through port 6425 rather then the common ssh port 22.
-You can either do this with the command >ssh -i /(location e.g home/(your username on your device e.g admin)/(location of key e.g Downloads)/(keyname.pem) -l admin -p 64295 (your instance ip)
-REMOVE BRACKETS)
+You can either do this with the command  ''' ssh -i /(location e.g home/(your username on your device e.g admin)/(location of key e.g Downloads)/(keyname.pem) -l admin -p 64295 (your instance ip) '''
+(REMOVE BRACKETS)
 
 or with termius
 
