@@ -35,10 +35,24 @@ For the instance type select t3.large
 <img width="1073" height="179" alt="image" src="https://github.com/user-attachments/assets/ba814f8a-7abb-48e6-9351-f40b85a65ff1" />
 
 KEY PAIR IMPORTANT!: Please give any name you want and download it into a safe place and dont lose it
+
 SECURITY GROUPS!: Select create a security group option if already not selected and make sure only the "allow ssh trafic from" box is selected and the option "my ip" is also selected
 
 Make sure the storage configuration is the same as the image below
 <img width="1067" height="161" alt="image" src="https://github.com/user-attachments/assets/78c8c141-bd4a-4bf9-886b-d60db290f4c5" />
+
+And finally launch the instance!
+
+STEP 4: Create firewall rules
+
+Go back to The instances tab, then find your instance and click on the instance id. When your in, in the side bar find security groups
+<img width="195" height="676" alt="image" src="https://github.com/user-attachments/assets/dc2b8deb-3d72-434c-b775-8018da49e6b2" />
+
+
+
+Add these inbound rules:
+<img width="1479" height="445" alt="image" src="https://github.com/user-attachments/assets/04f8b9bb-3516-4e3d-9a0e-12acd4bd2864" />
+
 
 
 
