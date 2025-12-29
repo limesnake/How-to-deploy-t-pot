@@ -123,6 +123,13 @@ If you have any errors despite follwoing all of these steps please, wanting to f
 ##THANK YOU
 Thank you for reading through my tutorial i really appreciate that you visited!
 
+---
+license: CC BY-ND 4.0
+copyright: © [Limesnake/2025]
+---
+
+This tutorial is licensed under a [Creative Commons Attribution-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nd/4.0/).
+You may share and copy it, but you may not modify it or claim it as your own work.
 
 
 
