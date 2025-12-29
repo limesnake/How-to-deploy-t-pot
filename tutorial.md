@@ -1,7 +1,7 @@
 # How-to-deploy-t-pot
-Hi guys, I made a step by step tutorial on how to deploy your first honeypot using T-pot and amazon AWS webservices virtual machine, please read the tutorial.md file for more information
+### Hi guys, I made a step by step tutorial on how to deploy your first honeypot using T-pot and amazon AWS webservices virtual machine, please read the tutorial.md file for more information
 
-WARNING: If you configure firewall rules or make a misconfiguration you are at risk of exposing your home network so make sure you do everything carefully. if you dont have acces to aws you can use many alternatives.
+### WARNING: If you configure firewall rules or make a misconfiguration you are at risk of exposing your home network so make sure you do everything carefully. if you dont have acces to aws you can use many alternatives.
 
 ## STEP 1: Make a AWS account.
 <img width="1367" height="714" alt="image" src="https://github.com/user-attachments/assets/04c1be1b-9f82-4b1e-ad90-4bc06f3dcb60" />
