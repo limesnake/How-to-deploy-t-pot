@@ -85,7 +85,37 @@ run the installer
 ```bash
 ./install.sh
 ```
+When you are asked to proceed with the installation type y or yes 
 
+It will ask you for credentials for the web dashboard, Enter ones that you will renember
+When it asks you for which version you want to install type h or for the default hive.
+
+now when its installed check if t-pot is running 
+```bash
+sudo systemctl status tpot.service
+```
+if its not running 
+use the command 
+```bash
+sudo systemctl start tpot.service
+```
+then check if its running with the previous command.
+
+if its running and everything is loaded we will proceed onto the final step
+
+## FINAL STEP
+Open up a new tab in your web browser while your instance is running and write the following into your search bar
+```bash
+https://YOUR_VM_IP_ADDRESS:64297
+```
+Now that you done all this you will be directed to the t-pot Dashboard that looks similair to the one in the image below (if it says your connection is not secure simply click advanced and click proceed and you will end up in the dashboard) :
+<img width="1708" height="856" alt="image" src="https://github.com/user-attachments/assets/f83e233e-8dda-473d-85a3-67f9d6b8db2d" />
+
+## IF YOU HAVE ANY ERRORS
+If you have any errors despite follwoing all of these steps please, wanting to find out more information or have any questions please visit the T-pot creators official repository for more information
+
+##THANK YOU
+Thank you for reading through my tutorial i really appreciate that you visited!
 
 
 
