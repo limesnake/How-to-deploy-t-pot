@@ -30,6 +30,18 @@ Name the vm anything you want , for the os image search debian 11 and then go in
 
 <img width="1453" height="605" alt="image" src="https://github.com/user-attachments/assets/a5ee15fc-d5a8-4755-b901-11bb330adfb6" />
 
+For the instance type select t3.large
+
+<img width="1073" height="179" alt="image" src="https://github.com/user-attachments/assets/ba814f8a-7abb-48e6-9351-f40b85a65ff1" />
+
+KEY PAIR IMPORTANT!: Please give any name you want and download it into a safe place and dont lose it
+SECURITY GROUPS!: Select create a security group option if already not selected and make sure only the "allow ssh trafic from" box is selected and the option "my ip" is also selected
+
+Make sure the storage configuration is the same as the image below
+<img width="1067" height="161" alt="image" src="https://github.com/user-attachments/assets/78c8c141-bd4a-4bf9-886b-d60db290f4c5" />
+
+
+
 
 
 
