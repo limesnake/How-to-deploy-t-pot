@@ -20,6 +20,18 @@ Then on the dashboard on the left click on instances
 
 <img width="1317" height="378" alt="image" src="https://github.com/user-attachments/assets/e654f74f-8c4e-4869-8643-3ef56eea47d8" />
 
-<img width="1637" height="53" alt="image" src="https://github.com/user-attachments/assets/2fe9e354-8ae0-47c4-bfd1-c373e83a22b9" />
+Launch the instance
+
+<img width="1369" height="96" alt="image" src="https://github.com/user-attachments/assets/103533f6-8067-4bb6-8dd0-a6253a1b101f" />
+
+STEP 3: Configure VM settings
+
+Name the vm anything you want , for the os image search debian 11 and then go into the aws marketplace and select the one shown in the picture below:
+
+<img width="1453" height="605" alt="image" src="https://github.com/user-attachments/assets/a5ee15fc-d5a8-4755-b901-11bb330adfb6" />
+
+
+
+
 
 
