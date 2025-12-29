@@ -1,4 +1,10 @@
 # How-to-deploy-t-pot
+
+##what is T-pot
+
+T-Pot is an all-in-one honeypot platform that deploys up to 20 different honeypots at once (including Cowrie, Dionaea, and Heralding) in Docker containers to attract and log attacks like SSH/Telnet login attempts and malware. It centralizes all data using Elasticsearch and visualizes it with Kibana, allowing researchers to safely monitor, analyze, and study real-world attacks in a controlled environment.
+
+
 ### Hi guys, I made a step by step tutorial on how to deploy your first honeypot using T-pot and amazon AWS webservices virtual machine, please read the tutorial.md file for more information
 
 ### WARNING: If you configure firewall rules or make a misconfiguration you are at risk of exposing your home network so make sure you do everything carefully. if you dont have acces to aws you can use many alternatives.
@@ -108,7 +114,7 @@ Open up a new tab in your web browser while your instance is running and write t
 ```bash
 https://YOUR_VM_IP_ADDRESS:64297
 ```
-Now that you done all this you will be directed to the t-pot Dashboard that looks similair to the one in the image below (if it says your connection is not secure simply click advanced and click proceed and you will end up in the dashboard) :
+Now that you done all this you will be directed to the t-pot Dashboard that looks similair to the one in the image below (if it says your connection is not secure simply click advanced and click proceed and you will end up in the dashboard) You will see all the different tools you can use to analyze your honeypots):
 <img width="1708" height="856" alt="image" src="https://github.com/user-attachments/assets/f83e233e-8dda-473d-85a3-67f9d6b8db2d" />
 
 ## IF YOU HAVE ANY ERRORS
