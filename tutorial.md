@@ -1,6 +1,6 @@
 # How-to-deploy-t-pot
 
-##what is T-pot
+## what is T-pot
 
 T-Pot is an all-in-one honeypot platform that deploys up to 20 different honeypots at once (including Cowrie, Dionaea, and Heralding) in Docker containers to attract and log attacks like SSH/Telnet login attempts and malware. It centralizes all data using Elasticsearch and visualizes it with Kibana, allowing researchers to safely monitor, analyze, and study real-world attacks in a controlled environment.
 
