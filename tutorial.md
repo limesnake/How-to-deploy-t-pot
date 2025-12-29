@@ -12,3 +12,14 @@ You will need to pay 1 euro but it will be returned to you after 2-3 business da
 
 STEP 2: Create a virtual machine/instance.
 
+Go into your EC2 dashboard once you made your account
+
+<img width="1016" height="578" alt="image" src="https://github.com/user-attachments/assets/a6eef10b-6456-4515-b075-fbc66eed2932" />
+
+Then on the dashboard on the left click on instances
+
+<img width="1317" height="378" alt="image" src="https://github.com/user-attachments/assets/e654f74f-8c4e-4869-8643-3ef56eea47d8" />
+
+<img width="1637" height="53" alt="image" src="https://github.com/user-attachments/assets/2fe9e354-8ae0-47c4-bfd1-c373e83a22b9" />
+
+
