@@ -54,7 +54,7 @@ Make sure you fidn the correct security group corresponding to your instance id,
 Add these inbound rules:
 <img width="1479" height="445" alt="image" src="https://github.com/user-attachments/assets/04f8b9bb-3516-4e3d-9a0e-12acd4bd2864" />
 
-## STEP 5: EStablish SSH connection
+## STEP 5: Establish SSH connection
 
 In the rules we should SSH into the vm through port 6425 rather then the common ssh port 22.
 You can either do this with the command 
@@ -69,7 +69,24 @@ simply get termius by downloading it from your web browser or if you are on linu
 
 either way you should have successfully sshd into the vm terminal if you followed all previous steps correctly.
 
-Now that you are in 
+Now that you are in we will need to clone the git repository and install the installer
+
+use the commands
+
+Clone repository
+```bash
+git clone https://github.com/telekom-security/tpotce
+```
+go into the tpotce folder
+```bash
+cd tpotce
+```
+run the installer 
+```bash
+./install.sh
+```
+
+
 
 
 
